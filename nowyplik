@@ -1,3 +1,4 @@
 printf"Witaj swiecie")
 printf("Jestem Lukasz")
-printf"cos do usuniecia")
+
+printf("Nowa instrukcja")
